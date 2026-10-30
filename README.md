@@ -6,7 +6,14 @@ It follows the shared design of [lexifina/global-law](https://github.com/lexifin
 
 ## What this repository holds
 
-**Current text only, not yet a history.** The KP Code holds each law "in revised form": the amendments made by later laws are incorporated into the text, and no earlier consolidated text is published. So each law is one commit holding its whole current text, dated by the day it was retrieved and credited to the department ("oldest version available"), not to an amending Act.
+The record contains 284 acts and 287 dated versions. Three acts have an earlier as-enacted version, added as a labelled correction: the Code of Criminal Procedure (Khyber Pakhtunkhwa) (Amendment) Act, 2025, and two Provincial Assembly acts of 2026. Their official PDFs state a Gazette date and immediate commencement. The other 281 acts have one current-text baseline each. The KP Code holds legislation "in revised form": amendments made by later laws are incorporated into the text, and it generally does not publish earlier consolidated wording.
+
+| Commit category | Count | What it records |
+| --- | ---: | --- |
+| First-version baseline | 284 | One current-text version of each act |
+| Correction | 3 | Source-dated as-enacted versions before the three corresponding baselines |
+
+The three corrections leave every current law-text file unchanged. Later source-dated versions can extend this history when their wording is established from official text.
 
 | Folder | What |
 | --- | --- |
@@ -21,7 +28,7 @@ The laws are added in parts of about fifty, in the order of the KP Code's list (
 
 ## Dates
 
-Each law's version is dated by the day it was retrieved from the KP Code, at noon in Peshawar (Asia/Karachi). That is not the day of its enactment or of its last amendment; the KP Code gives no "as amended up to" date.
+The three as-enacted versions are dated by their PDFs' Gazette publication and "come into force at once" clauses: 13 February 2025 for the Criminal Procedure amendment, and 7 May 2026 for each Provincial Assembly act. Their current-text baselines, and the 281 other baseline versions, retain the day on which the revised text was retrieved, at noon in Peshawar (Asia/Karachi). A retrieval day is not an enactment or amendment day; the KP Code gives no general "as amended up to" date for its revised texts.
 
 ## How it is built
 
@@ -35,11 +42,11 @@ Every version is read back from git on the day it took effect and must match the
 
 ## What "author" means
 
-The author of each commit is the publisher (the Law, Parliamentary Affairs and Human Rights Department), with an e-mail address that cannot exist; the committer is always Lexifina.
+The publisher (the Law, Parliamentary Affairs and Human Rights Department) is the author of the baseline commits, with an e-mail address that cannot exist. Lexifina authors the labelled correction commits and is the committer.
 
 ## Limits
 
-Only the current revised text is here: no earlier versions, and not the laws as enacted. The KP Code is "developed only for informational purposes"; the authoritative text is the Khyber Pakhtunkhwa Gazette. Federal laws that apply in the province are in [lexifina/pakistan-law](https://github.com/lexifina/pakistan-law). For the older laws printed with marginal notes, the section headings (printed only in the margin) are not in the text.
+Earlier as-enacted wording is present for only three acts. The other 281 acts have no earlier version in this record, and amended Acts generally cannot be reconstructed from the revised PDF alone. The KP Code is "developed only for informational purposes"; the authoritative text is the Khyber Pakhtunkhwa Gazette. Federal laws that apply in the province are in [lexifina/pakistan-law](https://github.com/lexifina/pakistan-law). For the older laws printed with marginal notes, the section headings (printed only in the margin) are not in the text.
 
 ## Licence
 
