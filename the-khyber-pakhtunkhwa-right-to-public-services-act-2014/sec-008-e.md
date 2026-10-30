@@ -1,0 +1,6 @@
+# Section 8E
+8E. Annual and special reports.---(l) The Commission shall prepare an annual report of its activities and present it to Government for laying before the Provincial Assembly of Khyber Pakhtunkhwa, not later than the 31st day of March of every year for the preceding year.
+Explanation: For the purpose of this section, the term "activities " include, but not limited to, the overall trend of public service delivery, performance and ranking of the Departments, performance of the Commission in improving the public service delivery and actions initiated for enforcing the provisions of this Act.
+(2) In addition to the preparation of an annual report under sub-section (l), the Commission may also prepare special reports on monthly, quarterly, half yearly or any other basis, if deemed fit and appropriate.
+(3) For the purposes of sub-sections (1) and (2), all the designated officers, Departments and Appellate Authorities shall be required to furnish any information as demanded by the Commission for preparation of the report.
+(4) Any report, prepared under this section, shall include the recommendations given by the Commission to Government and the speaking response of the Government with regards to such recommendations.]

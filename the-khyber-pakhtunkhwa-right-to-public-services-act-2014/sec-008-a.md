@@ -1,0 +1,4 @@
+# Section 8A
+[8A. Monitoring the status of application and appeal.---(1) Every person, who has filed an application or an appeal, shall be entitled to obtain and monitor status of his application or appeal online in accordance with such procedure as may be prescribed by regulations.
+(2) The Department, Appellate Authority or the Commission, as the case may be, shall maintain the status of all applications and appeals, filed under this Act, online and shall be duty bound to update the status of the same in accordance with such procedure as may be prescribed by regulations:
+Provided that all necessary arrangements for online monitoring of the applications and appeals shall be put in place as soon as practicable, but not later than the period of two years as specified in sub-section (2) of section 4 of this Act.
