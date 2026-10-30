@@ -1,0 +1,4 @@
+# Title
+THE 1[KHYBER PAKHTUNKHWA] WATER USERS' ASSOCIATIONS ORDINANCE, 1981. [KHYBER PAKHTUNKHWA] ORDINANCE NO. II OF 1981.
+[14th February, 1981] AN ORDINANCE to provide for the formation, operation and promotion of water users' association in the [Khyber Pakhtunkhwa].
+WHEREAS it is expedient to provide for the formation, operation and promotion of water users, associations in the [Khyber Pakhtunkhwa] and matters ancillary thereto in the manner hereinafter appearing. AND WHEREAS the Governor of the [Khyber Pakhtunkhwa] is satisfied that circumstances exist which render it necessary to take immediate action; NOW, THEREFORE, in pursuance of the Proclamation of the fifth day of July, 1977, read with the Laws (Continuance in Force) Order, 1977 (C.M.L.A., Order No I of 1977), and in exercise of all powers enabling him in that behalf, the Governor of the [Khyber Pakhtunkhwa] is pleased to make and promulgate the following Ordinance. CHAPTER—I PRELIMINARY
