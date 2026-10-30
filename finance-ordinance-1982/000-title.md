@@ -1,0 +1,3 @@
+# Title
+THE [KHYBER PAKHTUNKHWA] FINANCE ORDINANCE, 1982. [KHYBER PAKHTUNKHWA] ORDINANCE NO. V OF 1982. 27TH JUNE, 1985. AN ORDINANCE to levy certain taxes, cesses and fees in the [Khyber Pakhtunkhwa].
+WHEREAS it is expedient to levy certain taxes, cesses and fees in the [Khyber Pakhtunkhwa], for the purpose hereinafter appearing; AND WHEREAS the Governor of the [Khyber Pakhtunkhwa] is satisfied that circumstances exist which render it necessary to take immediate action; NOW, THEREFORE, in pursuance of the Proclamation of the fifth day of July, 1977, and in exercise of all powers enabling him in that behalf, the Governor of the [Khyber Pakhtunkhwa] is pleased to make and promulgate the following Ordinance:—
