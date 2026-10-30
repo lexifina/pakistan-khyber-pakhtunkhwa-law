@@ -1,0 +1,3 @@
+# Section 17A
+[17A. Penalty for manufacturing or fabricating fake arm licenses.---(1) Whoever, falsely makes, prints or fabricates any arm license or is involved in the making, printing or fabricating of arms licenses to support any claim or title shall be punished with imprisonment for a term which may extend to three years and a fine which may extend to one lac but shall not be less than rupees fifty thousand.
+(2) Whoever, fraudulently or dishonestly uses as genuine any arm license, which he knows or has reason to believe to be a forged arm license, shall be punished in the same manner as provided in sub-section (1).]
