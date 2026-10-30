@@ -1,6 +1,6 @@
 # The Khyber Pakhtunkhwa Judicial Officers Welfare Fund Act, 2025 (Act No. XIV of 2025)
 
-The Khyber Pakhtunkhwa Judicial Officers Welfare Fund Act, 2025 · 1 versions, from 2026-10-30 (latest in force: 2026-10-30) · <https://kpcode.kp.gov.pk/homepage/lawDetails/1612>
+The Khyber Pakhtunkhwa Judicial Officers Welfare Fund Act, 2025 · 1 versions, from 2025-05-15 (latest in force: 2025-05-15) · <https://kpcode.kp.gov.pk/homepage/lawDetails/1612>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

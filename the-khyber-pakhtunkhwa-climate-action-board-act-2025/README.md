@@ -1,6 +1,6 @@
 # The Khyber Pakhtunkhwa Climate Action Board Act, 2025 (Act No. XXIX of 2025)
 
-The Khyber Pakhtunkhwa Climate Action Board Act, 2025 · 1 versions, from 2026-10-30 (latest in force: 2026-10-30) · <https://kpcode.kp.gov.pk/homepage/lawDetails/1617>
+The Khyber Pakhtunkhwa Climate Action Board Act, 2025 · 1 versions, from 2025-09-18 (latest in force: 2025-09-18) · <https://kpcode.kp.gov.pk/homepage/lawDetails/1617>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

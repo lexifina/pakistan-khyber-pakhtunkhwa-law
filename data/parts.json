@@ -330,6 +330,17 @@
   "31-depth-d-docs.json": {
    "acts": [],
    "sha256": "326085e50a0b1e3075f7a0f6618813b47fe888cb80fd8996716e296f350aab04"
+  },
+  "32-depth-hp-01.json": {
+   "acts": [
+    "the-khyber-pakhtunkhwa-climate-action-board-act-2025",
+    "the-khyber-pakhtunkhwa-judicial-officers-welfare-fund-act-2025"
+   ],
+   "sha256": "d599f5f6821208a1dc3e79f0a913f55f342356d35d56d0b48820cec726991dd8"
+  },
+  "33-depth-hp-docs.json": {
+   "acts": [],
+   "sha256": "ba5962ba03daef31fd591342a172e2437eeeed8aaca39198d4736c57cb6701f2"
   }
  },
  "schema": 1

@@ -22,9 +22,9 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | --- | --- | ---: | --- |
 | `the-kp-province-speaker-and-deputy-speakers-immunities-privileges-salaries-and-allowances` | The KP Province Speaker and Deputy Speaker’s (Immunities, Privileges, Salaries and Allowances) Act, 2026 (ACT NO. VIII OF 2026) | 2 | 2026-05-07 to 2026-10-30 |
 | `the-provincial-assembly-of-the-kp-province-salaries-and-allowances-of-members-act-2026` | The Provincial Assembly of the KP Province (Salaries and Allowances of Members) Act, 2026 (ACT NO. IX OF 2026) | 2 | 2026-05-07 to 2026-10-30 |
-| `the-khyber-pakhtunkhwa-climate-action-board-act-2025` | The Khyber Pakhtunkhwa Climate Action Board Act, 2025 (Act No. XXIX of 2025) | 1 | 2026-10-30 to 2026-10-30 |
+| `the-khyber-pakhtunkhwa-climate-action-board-act-2025` | The Khyber Pakhtunkhwa Climate Action Board Act, 2025 (Act No. XXIX of 2025) | 1 | 2025-09-18 to 2025-09-18 |
 | `the-khyber-pakhtunkhwa-aasan-karobar-act-2025` | The Khyber Pakhtunkhwa Aasan Karobar Act, 2025 (ACT NO. XXIII OF 2025) | 1 | 2026-10-30 to 2026-10-30 |
-| `the-khyber-pakhtunkhwa-judicial-officers-welfare-fund-act-2025` | The Khyber Pakhtunkhwa Judicial Officers Welfare Fund Act, 2025 (Act No. XIV of 2025) | 1 | 2026-10-30 to 2026-10-30 |
+| `the-khyber-pakhtunkhwa-judicial-officers-welfare-fund-act-2025` | The Khyber Pakhtunkhwa Judicial Officers Welfare Fund Act, 2025 (Act No. XIV of 2025) | 1 | 2025-05-15 to 2025-05-15 |
 | `the-code-of-criminal-procedure-khyber-pakhtunkhwa-amendment-act-2025` | The Code of Criminal Procedure (Khyber Pakhtunkhwa) (Amendment) Act, 2025 (ACT No. IV of 2025) | 2 | 2025-02-13 to 2026-10-30 |
 | `the-khyber-pakhtunkhwa-animals-feed-stuff-and-compound-feed-act-2024` | The Khyber Pakhtunkhwa Animals Feed Stuff and Compound Feed Act, 2024 (Act No. XIX of 2024) | 1 | 2026-10-30 to 2026-10-30 |
 | `the-khyber-pakhtunkhwa-registration-of-brick-kilns-act-2024` | The Khyber Pakhtunkhwa Registration of Brick Kilns Act, 2024 (ACT NO. XXIV OF 2024) | 1 | 2026-10-30 to 2026-10-30 |
@@ -305,7 +305,7 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `co-operative-societies-reforms-ordinance-1982` | Co-operative Societies (Reforms) Ordinance, 1982 (Ordinance No. III) | 1 | 2026-10-30 to 2026-10-30 |
 | `children-infectious-diseases-hospital-peshawar-municipal-corporation-taking-over-ordinance` | Children Infectious Diseases Hospital (Peshawar Municipal Corporation), (Taking Over) Ordinance, 1983 (Ordinance No. XI of 1983) | 1 | 2026-10-30 to 2026-10-30 |
 
-The build made 287 commits:
+The build made 291 commits:
 
 | Commits | Kind |
 | ---: | --- |
@@ -329,7 +329,7 @@ When a law gives no date of its own, the default rule applies: No in-force day i
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `dcc6865558c5fa5ef4ca34fadae46d1d6fc423fd74d0cce3f520732718281ea4` (4662261 bytes).
+- Corpus: sha256 `3db6608b59153ce3777da436060b41f7b054215e403ef5dd2ee9cf396dd6d717` (4700061 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `35388bee5aa05369f7da68f5a8fa015ea8d442b8`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.14.4; git version 2.53.0.
 
@@ -398,6 +398,9 @@ No second build of this corpus has been compared yet.
 | 3 | labelled correction for a source-dated as-enacted version |
 | 0 | later law change |
 | 0 | unexplained change |
+- The two source-dated as-enacted versions use the same official PDF bytes and wording as the published current files. Each PDF states a Gazette date and immediate commencement and has no later amendment note to this instrument.
+- The source-dated versions replace the unsupported retrieval-day entries in the canonical corpus. The append-only correction commits preserve published history and leave current law-text files unchanged.
+- The canonical corpus has 287 versions across 284 acts. The append-only record has 7 labelled correction commits: 3 earlier back-fills, plus 2 for each newly source-dated Act (one fills the period before its published baseline and one corrects the baseline's date metadata). The two superseded retrieval-day entries remain visible in Git history but are absent from canonical version lists. No current-text wording was changed.
 
 ## What AI did and did not do
 
@@ -415,4 +418,5 @@ Model use at data-build time:
 - Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the KP Code PDFs.
 - Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the KP Code PDFs.
 - Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the KP Code PDFs.
+- A model selected candidate Acts and checked dates and amendment notes; no legal wording was written or changed by a model.
 - A model selected candidate Acts and checked dates and amendment notes; no legal wording was written or changed by a model.
