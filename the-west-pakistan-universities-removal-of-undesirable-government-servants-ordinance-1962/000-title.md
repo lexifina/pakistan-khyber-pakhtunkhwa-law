@@ -1,0 +1,2 @@
+# Title
+WHEREAS, it is expedient to make provision for the termination of the services of any Government servant, transferred for service in any University or other educational institution, who has become undesirable and it is necessary, in the public interest, to terminate his services; NOW, THEREFORE, in pursuance of the Presidential Proclamation of the seventh day of October, 1958, and in exercise of all powers enabling him in that behalf, the Governor of West Pakistan is pleased to make and promulgate the following Ordinance :-
