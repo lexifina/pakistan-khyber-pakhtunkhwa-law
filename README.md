@@ -8,12 +8,12 @@ It follows the shared design of [lexifina/global-law](https://github.com/lexifin
 
 The record starts with 284 current-text baselines. Official PDFs also establish source-dated as-enacted wording for five acts: the Code of Criminal Procedure (Khyber Pakhtunkhwa) (Amendment) Act, 2025, two Provincial Assembly acts of 2026, the Climate Action Board Act, 2025, and the Judicial Officers Welfare Fund Act, 2025. The canonical corpus has 287 versions across 284 acts: three Acts have an earlier version as well as a current-text baseline; the Climate Action Board and Judicial Officers Welfare Fund Acts have one source-dated as-enacted version each. The other 279 acts have one current-text baseline each. The KP Code holds legislation "in revised form": amendments made by later laws are incorporated into the text, and it generally does not publish earlier consolidated wording.
 
-| Commit category | Count when the five corrections are included | What it records |
+| Commit category | Count when the seven corrections are included | What it records |
 | --- | ---: | --- |
 | First-version baseline | 284 | One current-text version of each act |
-| Correction | 5 | Three earlier as-enacted versions and two corrections to unsupported retrieval-day dating |
+| Correction | 7 | Three earlier as-enacted back-fills and two commits per newly source-dated Act |
 
-These corrections leave every current law-text file unchanged. The two superseded retrieval-day entries remain in the append-only Git history but are absent from the canonical version lists. Later source-dated versions can extend this history when their wording is established from official text.
+For each newly source-dated Act, one commit fills the earlier period and another corrects its published baseline's date metadata. These corrections leave every current law-text file unchanged. The two superseded retrieval-day entries remain in the append-only Git history but are absent from the canonical version lists. Later source-dated versions can extend this history when their wording is established from official text.
 
 | Folder | What |
 | --- | --- |
