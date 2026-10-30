@@ -1,0 +1,2 @@
+# Title
+[First published after having received the assent of the Governor of the [Khyber Pakhtunkhwa]in the Gazette of the [Khyber Pakhtunkhwa] (Extraordinary), dated the 28thAugust, 2007. AN ACT to amend and consolidate the law relating to marketing of agricultural and livestock produce in the[Khyber Pakhtunkhwa]. WHEREAS it is expedient to amend and consolidate the law relating to marketing of agricultural and livestock produce in the [Khyber Pakhtunkhwa]; It is hereby enacted as follows:-
