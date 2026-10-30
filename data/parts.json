@@ -318,6 +318,18 @@
     "the-khyber-pakhtunkhwa-refugees-registration-of-land-claims-act-1949"
    ],
    "sha256": "73c2afed71f90ceda153a6ee2cd5c2b61b22eaa819ce0919f3270f48f42ed75c"
+  },
+  "30-depth-d-01.json": {
+   "acts": [
+    "the-code-of-criminal-procedure-khyber-pakhtunkhwa-amendment-act-2025",
+    "the-kp-province-speaker-and-deputy-speakers-immunities-privileges-salaries-and-allowances",
+    "the-provincial-assembly-of-the-kp-province-salaries-and-allowances-of-members-act-2026"
+   ],
+   "sha256": "fb11efa971f21477131a5d117a8096e999a2fb966038d710011f4883d90c4e10"
+  },
+  "31-depth-d-docs.json": {
+   "acts": [],
+   "sha256": "326085e50a0b1e3075f7a0f6618813b47fe888cb80fd8996716e296f350aab04"
   }
  },
  "schema": 1

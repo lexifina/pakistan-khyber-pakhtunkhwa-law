@@ -1,6 +1,6 @@
 # The Code of Criminal Procedure (Khyber Pakhtunkhwa) (Amendment) Act, 2025 (ACT No. IV of 2025)
 
-The Code of Criminal Procedure (Khyber Pakhtunkhwa) (Amendment) Act, 2025 · 1 versions, from 2026-10-30 (latest in force: 2026-10-30) · <https://kpcode.kp.gov.pk/homepage/lawDetails/1607>
+The Code of Criminal Procedure (Khyber Pakhtunkhwa) (Amendment) Act, 2025 · 2 versions, from 2025-02-13 (latest in force: 2026-10-30) · <https://kpcode.kp.gov.pk/homepage/lawDetails/1607>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

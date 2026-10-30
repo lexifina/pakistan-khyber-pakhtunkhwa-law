@@ -1,6 +1,6 @@
 # The Provincial Assembly of the KP Province (Salaries and Allowances of Members) Act, 2026 (ACT NO. IX OF 2026)
 
-The Provincial Assembly of the KP Province (Salaries and Allowances of Members) Act, 2026 · 1 versions, from 2026-10-30 (latest in force: 2026-10-30) · <https://kpcode.kp.gov.pk/homepage/lawDetails/1622>
+The Provincial Assembly of the KP Province (Salaries and Allowances of Members) Act, 2026 · 2 versions, from 2026-05-07 (latest in force: 2026-10-30) · <https://kpcode.kp.gov.pk/homepage/lawDetails/1622>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

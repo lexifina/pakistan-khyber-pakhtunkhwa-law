@@ -8,6 +8,12 @@
    "url": "https://kpcode.kp.gov.pk/homepage/lawDetails/1623",
    "versions": [
     {
+     "from": "2026-05-07",
+     "units": 33,
+     "source_url": "https://kpcode.kp.gov.pk/uploads/The_KP_Province_Speaker_and_Deputy_Speakers_Immunities_Privileges_Salaries_and_Allowances_Act_2026.pdf",
+     "sha256": "85617f7c8aa9a3539bedf9daaaac4418f7d89ddaf8fc1108f09900fa2edef080"
+    },
+    {
      "from": "2026-10-30",
      "units": 33,
      "source_url": "https://kpcode.kp.gov.pk/uploads/The_KP_Province_Speaker_and_Deputy_Speakers_Immunities_Privileges_Salaries_and_Allowances_Act_2026.pdf",
@@ -21,6 +27,12 @@
    "title": "The Provincial Assembly of the KP Province (Salaries and Allowances of Members) Act, 2026 (ACT NO. IX OF 2026)",
    "url": "https://kpcode.kp.gov.pk/homepage/lawDetails/1622",
    "versions": [
+    {
+     "from": "2026-05-07",
+     "units": 21,
+     "source_url": "https://kpcode.kp.gov.pk/uploads/The_Provincial_Assembly_of_the_KP_Province_Salaries_and_Allowances_of_Members_Act_2026.pdf",
+     "sha256": "2634be208b6982e5f537e7d5c48b4d9e7416defda054339113b3b5e94add7ae7"
+    },
     {
      "from": "2026-10-30",
      "units": 21,
@@ -77,6 +89,12 @@
    "title": "The Code of Criminal Procedure (Khyber Pakhtunkhwa) (Amendment) Act, 2025 (ACT No. IV of 2025)",
    "url": "https://kpcode.kp.gov.pk/homepage/lawDetails/1607",
    "versions": [
+    {
+     "from": "2025-02-13",
+     "units": 3,
+     "source_url": "https://kpcode.kp.gov.pk/uploads/THE_CODE_OF_CRIMINAL_PROCEDURE_KHYBER_PAKHTUNKHWA_AMENDMENT_ACT_2025.pdf",
+     "sha256": "3948e55cfc59cc788de2d925de64a725dda9298dbca4ad1d8ba874964792d2a8"
+    },
     {
      "from": "2026-10-30",
      "units": 3,

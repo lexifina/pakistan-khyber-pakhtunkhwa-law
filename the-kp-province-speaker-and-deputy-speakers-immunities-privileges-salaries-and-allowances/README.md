@@ -1,6 +1,6 @@
 # The KP Province Speaker and Deputy Speaker’s (Immunities, Privileges, Salaries and Allowances) Act, 2026 (ACT NO. VIII OF 2026)
 
-The KP Province Speaker and Deputy Speaker’s (Immunities, Privileges, Salaries and Allowances) Act, 2026 · 1 versions, from 2026-10-30 (latest in force: 2026-10-30) · <https://kpcode.kp.gov.pk/homepage/lawDetails/1623>
+The KP Province Speaker and Deputy Speaker’s (Immunities, Privileges, Salaries and Allowances) Act, 2026 · 2 versions, from 2026-05-07 (latest in force: 2026-10-30) · <https://kpcode.kp.gov.pk/homepage/lawDetails/1623>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
