@@ -1,0 +1,2 @@
+# Title
+WHEREAS, the Government of India Act, 1935, does not contain any provision for the maintenance and continuance of the Famine Relief Fund maintained under the provisions of Rule 29 and Schedule IV of the Devolution Rules prescribed under Section 45-A and 129-A., of the Government of India Act, 1919, and whereas it is expedient that such a relief fund should be maintained and continued, and whereas the Governor under sub-section (3) of Section 82 of the Government of India Act, 1935, has recommended the consideration of this Act, it is hereby enacted as follows:—
