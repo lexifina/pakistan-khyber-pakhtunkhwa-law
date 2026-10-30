@@ -1,0 +1,2 @@
+# Section 7E
+7E. Conveyance Allowance.— A member shall be entitled to receive convince allowance at the rate of six hundred and forty rupees per diem for the period of residence on duty and for the day of arrival and day of departure from the place where a session of Assembly or a meeting of Committee is held or where any other business connected with his duties as such member is transacted only during Assembly Session.
