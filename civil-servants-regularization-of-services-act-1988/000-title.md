@@ -1,0 +1,2 @@
+# Title
+(2) The seniority inter se of the civil servants, whose services are regularized under this Act within the same service or cadre, shall be determined on the basis of their continuous officiation in such service or cadre, provided that if the date of continuous officiation in the case of two or more civil servants is the same, the civil servant older in age shall rank senior to the younger civil servant.
