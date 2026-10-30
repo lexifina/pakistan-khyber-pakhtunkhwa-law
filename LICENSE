@@ -1,0 +1,26 @@
+Law texts
+
+The texts in this repository are the Acts, Ordinances and Regulations of Khyber Pakhtunkhwa (Pakistan) as published
+in revised form on the Khyber Pakhtunkhwa Code (kpcode.kp.gov.pk) by the Law, Parliamentary Affairs and Human Rights
+Department, Government of Khyber Pakhtunkhwa ("© 2026 Law & Parliamentary Affairs Department, Government of KP").
+The site states no licence for reuse.
+
+- Copyright: the Copyright Ordinance, 1962 (Ordinance No. XXXIV of 1962), s. 57(1) begins "The following acts shall
+  not constitute an infringement of copyright, namely:" and clause (q) reads: "the reproduction or publication of__
+  (i) any matter which has been published in any official Gazette, or the report of any committee, commission,
+  council, board or other like body appointed by the Government unless the reproduction or publication of such
+  matter or report is prohibited by the Government". The laws of Khyber Pakhtunkhwa are published in the Khyber
+  Pakhtunkhwa Gazette, and no prohibition by the Government of reproducing them was found. The texts are reproduced
+  without change to their wording; only the arrangement (one file per section or Schedule, one paragraph per line)
+  is Lexifina's.
+- Limits of that basis: the KP Code's revised texts are the department's consolidation, and their footnotes (kept in
+  data/amendments.csv) are the department's wording. Section 57(1)(q)(i) covers matter published in the Gazette; it
+  does not in terms cover the consolidation and footnotes, which record facts (which law changed which words).
+- The site says: "This site is developed only for informational purposes and is subject to the Disclaimer." The
+  texts are not the authoritative text: the laws as published in the Khyber Pakhtunkhwa Gazette are.
+
+Attribution: Source: Khyber Pakhtunkhwa Code, Law, Parliamentary Affairs and Human Rights Department, Government of
+Khyber Pakhtunkhwa, https://kpcode.kp.gov.pk.
+
+Everything else (the git history's structure, the tools and the documentation): CC0 1.0 Universal,
+https://creativecommons.org/publicdomain/zero/1.0/legalcode
