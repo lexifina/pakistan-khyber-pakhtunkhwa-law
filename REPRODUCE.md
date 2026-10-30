@@ -335,7 +335,7 @@ When a law gives no date of its own, the default rule applies: No in-force day i
 
 ## Checks
 
-Not yet run for this build.
+287 versions of 284 acts read back from git on the day each took effect and on the day before: 0 mismatches. Trailers: 0 commits whose trailers git cannot parse. Health: 0 merge commits on main, 0 commit dates that go backwards, 0 commits dated after the build.
 
 No second build of this corpus has been compared yet.
 
