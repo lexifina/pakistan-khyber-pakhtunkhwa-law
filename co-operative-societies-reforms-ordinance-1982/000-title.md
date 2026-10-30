@@ -1,0 +1,4 @@
+# Title
+THE [KHYBER PAKHTUNKHWA] CO-OPERATIVE SOCIETIES (REFORMS) ORDINANCE, 1982. [KHYBER PAKHTUNKHWA] ORDINANCE NO. III OF 1982.
+[20TH JANUARY, 1982] AN ORDINANCE to Provide for the improvement of the constitution and working of certain Co-operative Societies in the [Khyber Pakhtunkhwa]
+WHEREAS it is expedient to provide for the improvement of the constitution and working of certain Co-operative Societies in the [Khyber Pakhtunkhwa] for the purpose hereinafter appearing; AND WHEREAS the Governor of the [Khyber Pakhtunkhwa] is satisfied that circumstances exist which render it necessary to take immediate action; NOW, THEREFORE, in pursuance of the Proclamation of the fifth day of July, 1977, and in exercise of all powers enabling him in that behalf, the Governor of the [Khyber Pakhtunkhwa] is pleased to make and promulgate the following Ordinance:—
