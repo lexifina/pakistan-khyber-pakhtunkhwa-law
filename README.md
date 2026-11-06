@@ -1,5 +1,7 @@
 # Khyber Pakhtunkhwa: law history in git
 
+Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is the law of Khyber Pakhtunkhwa, Pakistan, which global-law reads at `pakistan/khyber-pakhtunkhwa/acts/`.
+
 The Acts, Ordinances and Regulations of the Province of Khyber Pakhtunkhwa (Pakistan) as a git history: one file per section, one paragraph per line, so `git blame`, `git log` and `git diff` work line by line. The text is the English text of the Khyber Pakhtunkhwa Code (KP Code).
 
 It follows the shared design of [lexifina/global-law](https://github.com/lexifina/global-law).
